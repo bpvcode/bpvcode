@@ -10,10 +10,9 @@
 
 🧑‍💻 I'm always implementing new features and behaviors, not when time runs, but in run time!
 
-####  👇 If  you want to know the design pattern of my life, reach me out:
+###  👇 If  you want to know the design pattern of my life, reach me out:
 
-<a href='https://www.linkedin.com/in/brunopinheirovilar/' target="_blank"><img alt='Bruno Vilar Linkedin' width = '32' src='https://www.flaticon.com/svg/static/icons/svg/185/185964.svg'></a> <br>
-<a href='mailto:bruno.p.vilar.code@gmail.com' ><img alt='Bruno Vilar email gmail' width = '32' src='https://www.flaticon.com/svg/static/icons/svg/732/732200.svg'></a>
+<a href='https://www.linkedin.com/in/brunopinheirovilar/' target="_blank"><img alt='Bruno Vilar Linkedin' width = '32' src='https://www.flaticon.com/svg/static/icons/svg/185/185964.svg'></a> <a href='mailto:bruno.p.vilar.code@gmail.com' ><img alt='Bruno Vilar email gmail' width = '32' src='https://www.flaticon.com/svg/static/icons/svg/732/732200.svg'></a>
 
 <!--
 **bpvcode/bpvcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
