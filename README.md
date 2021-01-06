@@ -12,7 +12,7 @@
 
 ####  👇 If  you want to know the design pattern of my life, reach me out:
 
-<a href='https://github.com/bpvcode'><img alt='Bruno Vilar Linkedin' width = '50' src='https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg'></a>  <a href='mailto:bruno.p.vilar.code@gmail.com' ><img alt='Bruno Vilar email gmail' width = '50' src='https://www.flaticon.com/svg/static/icons/svg/732/732200.svg'></a>
+<a href='https://github.com/bpvcode'><img alt='Bruno Vilar Linkedin' width = '40' src='https://www.flaticon.com/svg/static/icons/svg/185/185964.svg'></a>  <a href='mailto:bruno.p.vilar.code@gmail.com' ><img alt='Bruno Vilar email gmail' width = '40' src='https://www.flaticon.com/svg/static/icons/svg/732/732200.svg'></a>
 
 <!--
 **bpvcode/bpvcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
