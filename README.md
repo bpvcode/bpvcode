@@ -12,7 +12,7 @@
 
 ####  👇 If  you want to know the design pattern of my life, reach me out:
 
-<a href='https://github.com/bpvcode'><img alt='Bruno Vilar Linkedin' width = '36' src='https://www.flaticon.com/svg/static/icons/svg/185/185964.svg'></a>
+<a href='https://github.com/bpvcode'><img alt='Bruno Vilar Linkedin' width = '36' src='https://www.flaticon.com/svg/static/icons/svg/185/185964.svg'></a> <br>
 <a href='mailto:bruno.p.vilar.code@gmail.com' ><img alt='Bruno Vilar email gmail' width = '36' src='https://www.flaticon.com/svg/static/icons/svg/732/732200.svg'></a>
 
 <!--
