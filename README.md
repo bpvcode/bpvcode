@@ -10,14 +10,12 @@
 
 🧑‍💻 I'm always implementing new features and behaviors, not when time runs, but in run time!
 
-<center><h3> 📊 Statistics </h3></center>
+### 👇 If  you want to know the design pattern of my life, reach me out:
+
+<a href='https://www.linkedin.com/in/brunopinheirovilar/' target="_blank"><img alt='Bruno Vilar Linkedin' width = '32' src='https://www.flaticon.com/svg/static/icons/svg/185/185964.svg'></a> <a href='mailto:bruno.p.vilar.code@gmail.com' ><img alt='Bruno Vilar email gmail' width = '32' src='https://www.flaticon.com/svg/static/icons/svg/732/732200.svg'></a>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bpvcode&include_all_commits=true&count_private=true&custom_title=Bruno Vilar GitHub Stats&show_icons=true&title_color=8B949E&text_color=FFFFFF&icon_color=cca42b&bg_color=0D1117" alt="bpvcode" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpvcode&layout=compact&langs_count=8&title_color=8B949E&text_color=FFFFFF&bg_color=0D1117" alt="bpvcode" /></p>
-
-<center><h3> 👇 If  you want to know the design pattern of my life, reach me out: </h3></center>
-
- <center> <a href='https://www.linkedin.com/in/brunopinheirovilar/' target="_blank"><img alt='Bruno Vilar Linkedin' width = '32' src='https://www.flaticon.com/svg/static/icons/svg/185/185964.svg'></a> <a href='mailto:bruno.p.vilar.code@gmail.com' ><img alt='Bruno Vilar email gmail' width = '32' src='https://www.flaticon.com/svg/static/icons/svg/732/732200.svg'></a> </center>
 
 <!--
 **bpvcode/bpvcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
