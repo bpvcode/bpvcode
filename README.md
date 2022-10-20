@@ -14,13 +14,18 @@
 
 <a href='https://www.linkedin.com/in/brunopinheirovilar/' target="_blank"><img alt='Bruno Vilar Linkedin' width = '40' src='https://cdn-icons-png.flaticon.com/512/145/145802.png'></a> <a href='mailto:bruno.p.vilar.code@gmail.com' ><img alt='Bruno Vilar email gmail' width = '44' style="padding: 10px;" src='https://cdn-icons-png.flaticon.com/512/552/552486.png'></a>
 
+# 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bpvcode&label=Profile%20views&color=0e75b6&style=flat" alt="bpvcode" /> </p>
 
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bpvcode&include_all_commits=true&count_private=true&custom_title=Bruno Vilar GitHub Stats&show_icons=true&title_color=8B949E&text_color=FFFFFF&icon_color=cca42b&bg_color=0D1117" alt="bpvcode" /></p>-->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpvcode&layout=compact&langs_count=8&title_color=8B949E&text_color=FFFFFF&bg_color=0D1117" alt="bpvcode" /></p>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/513lZvPf6khjIQFibF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://www.buymeacoffee.com/bpvcode">via GIPHY</a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/bpvcode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 
+#
+
+<p align="center">Copyright © 2022 bpvcode. All rights reserved.</p>
 <!--
 **bpvcode/bpvcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
