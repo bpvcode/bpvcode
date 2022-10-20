@@ -19,6 +19,8 @@
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bpvcode&include_all_commits=true&count_private=true&custom_title=Bruno Vilar GitHub Stats&show_icons=true&title_color=8B949E&text_color=FFFFFF&icon_color=cca42b&bg_color=0D1117" alt="bpvcode" /></p>-->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpvcode&layout=compact&langs_count=8&title_color=8B949E&text_color=FFFFFF&bg_color=0D1117" alt="bpvcode" /></p>
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/513lZvPf6khjIQFibF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://www.buymeacoffee.com/bpvcode">via GIPHY</a></p>
+
 <!--
 **bpvcode/bpvcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
