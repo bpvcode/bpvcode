@@ -22,12 +22,10 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpvcode&layout=compact&langs_count=8&title_color=8B949E&text_color=FFFFFF&bg_color=0D1117" alt="bpvcode" /></p>
 
 #
-<p> </p>
 
 [![@bvilar's Holopin board](https://holopin.me/bvilar)](https://holopin.io/@bvilar)
 
 #
-<p> </p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/bpvcode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 
