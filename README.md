@@ -25,6 +25,10 @@
 
 [![@bvilar's Holopin board](https://holopin.me/bvilar)](https://holopin.io/@bvilar)
 
+<p align="center"><a href="https://dev.to/bpvcode" target="_blank"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="Dev community bpvcode profile" style="height: 80px !important;" ></a></p>
+
+<p align="center"><a href="https://app.daily.dev/bpvcodeTech"><img src="https://api.daily.dev/devcards/584f37a375304b699373f5c6a23bcd7a.png?r=z85" width="400" alt="Bruno Vilar's Dev Card"/></a></p>
+
 #
 
 <p align="center"><a href="https://www.buymeacoffee.com/bpvcode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
