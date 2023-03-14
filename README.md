@@ -12,7 +12,7 @@
 
 ### 👇 If  you want to know the design pattern of my life, reach me out:
 
-<a href='https://www.linkedin.com/in/brunopinheirovilar/' target="_blank"><img alt='Bruno Vilar Linkedin' width = '40' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
+<p align="center"><a href='https://www.linkedin.com/in/brunopinheirovilar/' target="_blank"><img alt='Bruno Vilar Linkedin' width = '40' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a></p>
 
 <p align="center"><a href='mailto:bruno.p.vilar.code@gmail.com' ><img alt='Bruno Vilar email gmail' width = '44' style="padding: 50px;" src='https://cdn-icons-png.flaticon.com/512/552/552486.png'></a></p>
 
