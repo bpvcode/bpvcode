@@ -37,7 +37,7 @@
 
 #
 
-<p align="center">Copyright © 2022 bpvcode. All rights reserved.</p>
+<p align="center">Copyright © 2024 bpvcode. All rights reserved.</p>
 <!--
 **bpvcode/bpvcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
